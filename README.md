@@ -1,1 +1,1 @@
-# Amazing CLI tool
+# Amazing CLI tool.
